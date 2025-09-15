@@ -1,5 +1,13 @@
 Instruction
 
+1.Import all the packages first.
+
+2.Also Create util file.
+
+3.Run the Code!!
+
+How to Operate ?
+
 1.Keep your Thumb finger close to palm to move the cursor 
 
 2.Keep your Thumb finger away from palm to stop the cursor 
