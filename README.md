@@ -1,7 +1,8 @@
 Instruction
 
 1.Import all the packages first.
-2.Also Create util file.
+
+2.Create util file & paste code from util.py file in it.
 
 3.Run the Code!!
 
